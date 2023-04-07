@@ -5,7 +5,7 @@
       "newsletter": [
         {
           "field": "PC Games",
-          "checked": false,
+          "checked": true,
           "img": "/assets/img/pc-gaming.png"
         },
         {
