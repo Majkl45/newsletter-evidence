@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "username": "testuser",
+      "newsletter": [
+        {
+          "field": "PC Games",
+          "checked": false,
+          "img": "/assets/img/pc-gaming.png"
+        },
+        {
+          "field": "Mobile Games",
+          "checked": true,
+          "img": "/assets/img/mobile-gaming.png"
+        },
+        {
+          "field": "Console Games",
+          "checked": true,
+          "img": "/assets/img/console-gaming.png"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "TestUser",
+      "newsletter": [
+        {
+          "field": "PC Games",
+          "checked": true,
+          "img": "/assets/img/pc-gaming.png"
+        },
+        {
+          "field": "Mobile Games",
+          "checked": false,
+          "img": "/assets/img/mobile-gaming.png"
+        },
+        {
+          "field": "Console Games",
+          "checked": false,
+          "img": "/assets/img/console-gaming.png"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "username": "testuser1",
+      "newsletter": [
+        {
+          "field": "PC Games",
+          "checked": true,
+          "img": "/assets/img/pc-gaming.png"
+        },
+        {
+          "field": "Mobile Games",
+          "checked": false,
+          "img": "/assets/img/mobile-gaming.png"
+        },
+        {
+          "field": "Console Games",
+          "checked": false,
+          "img": "/assets/img/console-gaming.png"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
